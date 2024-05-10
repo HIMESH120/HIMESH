@@ -15,20 +15,6 @@
 * [Contact](#contact)
 
 
-## Demo
-![Example screenshot](./img/demo4.gif)
-
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
-
-
-
-
 ## Screenshots
 
 ![Example screenshot](./img/Capture1.PNG)
