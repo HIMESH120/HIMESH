@@ -1,6 +1,6 @@
 
-# Sign Language Interpreter using Deep Learning
-> A sign language interpreter using live video feed from the camera. 
+# Sign Language detection using Deep Learning
+> A sign language detection using live video feed from the camera. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -39,6 +39,7 @@
 * TensorFlow
 * Keras
 * OpenCV
+* hunspell
 
 ## Setup
 
